@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1801,
-    "solution": "tripe",
-    "print_date": "2025-05-09",
-    "days_since_launch": 1420,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1337,
     "solution": "yeast",
     "print_date": "2025-05-10",
     "days_since_launch": 1421,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 637,
     "solution": "dowel",
     "print_date": "2025-05-11",
     "days_since_launch": 1422,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1802,
+    "solution": "bicep",
+    "print_date": "2025-05-12",
+    "days_since_launch": 1423,
     "editor": "Tracy Bennett"
   }
 }
