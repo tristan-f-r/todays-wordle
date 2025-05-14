@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1802,
-    "solution": "bicep",
-    "print_date": "2025-05-12",
-    "days_since_launch": 1423,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1173,
     "solution": "aware",
     "print_date": "2025-05-13",
     "days_since_launch": 1424,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 833,
     "solution": "bongo",
     "print_date": "2025-05-14",
     "days_since_launch": 1425,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1753,
+    "solution": "eager",
+    "print_date": "2025-05-15",
+    "days_since_launch": 1426,
     "editor": "Tracy Bennett"
   }
 }
