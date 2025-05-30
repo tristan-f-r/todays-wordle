@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1545,
-    "solution": "polar",
-    "print_date": "2025-05-28",
-    "days_since_launch": 1439,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 2177,
     "solution": "quash",
     "print_date": "2025-05-29",
     "days_since_launch": 1440,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1492,
     "solution": "idiom",
     "print_date": "2025-05-30",
     "days_since_launch": 1441,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1707,
+    "solution": "habit",
+    "print_date": "2025-05-31",
+    "days_since_launch": 1442,
     "editor": "Tracy Bennett"
   }
 }
