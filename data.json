@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1359,
-    "solution": "dread",
-    "print_date": "2025-07-08",
-    "days_since_launch": 1480,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1379,
     "solution": "novel",
     "print_date": "2025-07-09",
     "days_since_launch": 1481,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1939,
     "solution": "jumpy",
     "print_date": "2025-07-10",
     "days_since_launch": 1482,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1796,
+    "solution": "brand",
+    "print_date": "2025-07-11",
+    "days_since_launch": 1483,
     "editor": "Tracy Bennett"
   }
 }
