@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1379,
-    "solution": "novel",
-    "print_date": "2025-07-09",
-    "days_since_launch": 1481,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1939,
     "solution": "jumpy",
     "print_date": "2025-07-10",
     "days_since_launch": 1482,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1796,
     "solution": "brand",
     "print_date": "2025-07-11",
     "days_since_launch": 1483,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 687,
+    "solution": "exile",
+    "print_date": "2025-07-12",
+    "days_since_launch": 1484,
     "editor": "Tracy Bennett"
   }
 }
