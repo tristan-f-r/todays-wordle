@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1030,
-    "solution": "knife",
-    "print_date": "2025-09-18",
-    "days_since_launch": 1552,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 848,
     "solution": "later",
     "print_date": "2025-09-19",
     "days_since_launch": 1553,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1424,
     "solution": "defer",
     "print_date": "2025-09-20",
     "days_since_launch": 1554,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1911,
+    "solution": "coven",
+    "print_date": "2025-09-21",
+    "days_since_launch": 1555,
     "editor": "Tracy Bennett"
   }
 }
