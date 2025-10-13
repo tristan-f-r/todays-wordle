@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 609,
-    "solution": "stack",
-    "print_date": "2025-10-11",
-    "days_since_launch": 1575,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1973,
     "solution": "wound",
     "print_date": "2025-10-12",
     "days_since_launch": 1576,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1226,
     "solution": "beard",
     "print_date": "2025-10-13",
     "days_since_launch": 1577,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1905,
+    "solution": "forum",
+    "print_date": "2025-10-14",
+    "days_since_launch": 1578,
     "editor": "Tracy Bennett"
   }
 }
