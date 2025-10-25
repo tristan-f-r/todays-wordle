@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1800,
-    "solution": "drill",
-    "print_date": "2025-10-23",
-    "days_since_launch": 1587,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1009,
     "solution": "tuber",
     "print_date": "2025-10-24",
     "days_since_launch": 1588,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 2138,
     "solution": "gauge",
     "print_date": "2025-10-25",
     "days_since_launch": 1589,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1925,
+    "solution": "plump",
+    "print_date": "2025-10-26",
+    "days_since_launch": 1590,
     "editor": "Tracy Bennett"
   }
 }
