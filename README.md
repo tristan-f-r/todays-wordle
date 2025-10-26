@@ -7,7 +7,7 @@ uses the ny times API: `https://www.nytimes.com/svc/wordle/v2/YYYY-MM-DD.json`
 <details>
     <summary>click to see yesterday's wordle</summary>
 
-    tuber
+    gauge
 
 </details>
 
@@ -16,7 +16,7 @@ uses the ny times API: `https://www.nytimes.com/svc/wordle/v2/YYYY-MM-DD.json`
 <details>
     <summary>click to see today's wordle</summary>
 
-    gauge
+    plump
 
 </details>
 
@@ -25,6 +25,6 @@ uses the ny times API: `https://www.nytimes.com/svc/wordle/v2/YYYY-MM-DD.json`
 <details>
     <summary>click to see tomorrow's wordle</summary>
 
-    plump
+    fetid
 
 </details>
