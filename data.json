@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 2009,
-    "solution": "lathe",
-    "print_date": "2025-10-30",
-    "days_since_launch": 1594,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 2045,
     "solution": "abhor",
     "print_date": "2025-10-31",
     "days_since_launch": 1595,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1864,
     "solution": "motel",
     "print_date": "2025-11-01",
     "days_since_launch": 1596,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 747,
+    "solution": "rabid",
+    "print_date": "2025-11-02",
+    "days_since_launch": 1597,
     "editor": "Tracy Bennett"
   }
 }
