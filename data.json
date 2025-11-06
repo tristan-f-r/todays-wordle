@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1120,
-    "solution": "venue",
-    "print_date": "2025-11-04",
-    "days_since_launch": 1599,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1208,
     "solution": "short",
     "print_date": "2025-11-05",
     "days_since_launch": 1600,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 2061,
     "solution": "guise",
     "print_date": "2025-11-06",
     "days_since_launch": 1601,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 2237,
+    "solution": "peril",
+    "print_date": "2025-11-07",
+    "days_since_launch": 1602,
     "editor": "Tracy Bennett"
   }
 }
