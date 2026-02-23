@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 2531,
-    "solution": "awake",
-    "print_date": "2026-02-21",
-    "days_since_launch": 1708,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 2184,
     "solution": "guava",
     "print_date": "2026-02-22",
     "days_since_launch": 1709,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 2229,
     "solution": "attic",
     "print_date": "2026-02-23",
     "days_since_launch": 1710,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 1069,
+    "solution": "buyer",
+    "print_date": "2026-02-24",
+    "days_since_launch": 1711,
     "editor": "Tracy Bennett"
   }
 }
