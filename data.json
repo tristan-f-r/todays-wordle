@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1072,
-    "solution": "smell",
-    "print_date": "2026-03-12",
-    "days_since_launch": 1727,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 784,
     "solution": "eaten",
     "print_date": "2026-03-13",
     "days_since_launch": 1728,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1748,
     "solution": "ankle",
     "print_date": "2026-03-14",
     "days_since_launch": 1729,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 3257,
+    "solution": "grade",
+    "print_date": "2026-03-15",
+    "days_since_launch": 1730,
     "editor": "Tracy Bennett"
   }
 }
