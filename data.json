@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 2350,
-    "solution": "shill",
-    "print_date": "2026-07-21",
-    "days_since_launch": 1858,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 2124,
     "solution": "lorry",
     "print_date": "2026-07-22",
     "days_since_launch": 1859,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 1529,
     "solution": "orbit",
     "print_date": "2026-07-23",
     "days_since_launch": 1860,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 913,
+    "solution": "putty",
+    "print_date": "2026-07-24",
+    "days_since_launch": 1861,
     "editor": "Tracy Bennett"
   }
 }
