@@ -1,23 +1,23 @@
 {
   "yesterday": {
-    "id": 1848,
-    "solution": "sloop",
-    "print_date": "2026-09-27",
-    "days_since_launch": 1926,
-    "editor": "Tracy Bennett"
-  },
-  "today": {
     "id": 1336,
     "solution": "trunk",
     "print_date": "2026-09-28",
     "days_since_launch": 1927,
     "editor": "Tracy Bennett"
   },
-  "tomorrow": {
+  "today": {
     "id": 763,
     "solution": "scuba",
     "print_date": "2026-09-29",
     "days_since_launch": 1928,
+    "editor": "Tracy Bennett"
+  },
+  "tomorrow": {
+    "id": 829,
+    "solution": "river",
+    "print_date": "2026-09-30",
+    "days_since_launch": 1929,
     "editor": "Tracy Bennett"
   }
 }
